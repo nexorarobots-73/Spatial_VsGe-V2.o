@@ -1,4 +1,4 @@
-# Sonic Radar AI
+# Spatial VsGe V2.o
 
 A real-time AI-based directional sound detection and visual radar system using HRTF, Superfastline, VQ-VAE, Transformers, and G-sync compatible audio-visual processing pipelines.
 
