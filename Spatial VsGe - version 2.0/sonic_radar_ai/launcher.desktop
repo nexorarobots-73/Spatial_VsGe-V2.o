@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=Sonic Radar AI
+Exec=/usr/local/bin/sonic_radar.py
+Icon=utilities-terminal
+Type=Application
+Categories=Utility;

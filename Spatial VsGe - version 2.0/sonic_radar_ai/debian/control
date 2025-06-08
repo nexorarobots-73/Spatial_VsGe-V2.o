@@ -1,0 +1,9 @@
+Package: sonic-radar
+Version: 1.0
+Section: base
+Priority: optional
+Architecture: amd64
+Depends: python3, python3-pip, libopencv-dev, libpulse-dev, nvidia-cuda-toolkit
+Maintainer: Your Name <your.email@example.com>
+Description: AI-Enhanced Sonic Radar for RTX GPUs
+ A real-time AI-based directional sound detection and visual radar system using HRTF, Superfastline, VQ-VAE, Transformers, and G-sync compatible audio-visual processing pipelines.
